@@ -1,0 +1,699 @@
+[18:26:40] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-LTS; Microsoft Microsoft-11369942) on Linux 6.8.0-1030-azure (amd64)
+[18:26:40] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-60-main@29c8822 (2025-09-06T21:49:13Z) for Minecraft 1.21.8
+[18:26:40] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[18:26:41] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
+[18:26:45] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 3993ms.
+[18:26:45] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[18:26:45] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
+ - SkinsRestorer (15.7.10), Timber (1.7.3), playit-gg (0.1.4)
+[18:26:52] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:26:55] [ServerMain/INFO]: Loaded 1407 recipes
+[18:26:55] [ServerMain/INFO]: Loaded 1520 advancements
+[18:26:55] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[18:26:56] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 846.4ms
+[18:26:56] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[18:26:56] [Server thread/INFO]: Loading properties
+[18:26:56] [Server thread/INFO]: This server is running Paper version 1.21.8-60-main@29c8822 (2025-09-06T21:49:13Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[18:26:56] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[18:26:56] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:26:56] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:26:58] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[18:26:58] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[18:26:58] [Server thread/INFO]: Default game type: SURVIVAL
+[18:26:58] [Server thread/INFO]: Generating keypair
+[18:26:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:26:59] [Server thread/INFO]: Using epoll channel type
+[18:26:59] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[18:26:59] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[18:26:59] [Server thread/INFO]: [playit-gg] Loading server plugin playit-gg v0.1.4
+[18:26:59] [Server thread/INFO]: [Timber] Loading server plugin Timber v1.7.3
+[18:26:59] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.10
+[18:26:59] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:26:59] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.10
+[18:27:00] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
+[18:27:01] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[18:27:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:27:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:27:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:27:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:27:01] [Server thread/INFO]: Preparing level "world"
+[18:27:02] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:27:02] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
+[18:27:02] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[18:27:02] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |------------------|
+[18:27:02] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[18:27:02] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
+[18:27:02] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:27:02] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Version: 15.7.10
+[18:27:02] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Commit: 19ef760
+[18:27:02] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     This is the latest version!
+[18:27:02] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:27:02] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[18:27:02] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[18:27:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:27:03] [Server thread/INFO]: Preparing spawn area: 0%
+[18:27:03] [Server thread/INFO]: Preparing spawn area: 2%
+[18:27:04] [Server thread/INFO]: Preparing spawn area: 2%
+[18:27:04] [Server thread/INFO]: Preparing spawn area: 2%
+[18:27:04] [Server thread/INFO]: Time elapsed: 1953 ms
+[18:27:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:27:04] [Server thread/INFO]: Preparing spawn area: 0%
+[18:27:05] [Server thread/INFO]: Time elapsed: 469 ms
+[18:27:05] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:27:05] [Server thread/INFO]: Preparing spawn area: 0%
+[18:27:05] [Server thread/INFO]: Time elapsed: 275 ms
+[18:27:05] [Server thread/INFO]: [playit-gg] Enabling playit-gg v0.1.4
+[18:27:05] [Thread-11/INFO]: [gg.playit.minecraft.PlayitKeysSetup] secret key found, checking
+[18:27:05] [Thread-11/INFO]: [gg.playit.minecraft.PlayitKeysSetup] check secret
+[18:27:05] [Server thread/INFO]: [Timber] Enabling Timber v1.7.3
+[18:27:05] [Server thread/WARN]: LogBlock isn't injected! 
+[18:27:05] [Server thread/WARN]: Install the plugin to improve tree detection 
+[18:27:05] [Server thread/WARN]: Download link: https://www.curseforge.com/minecraft/bukkit-plugins/logblocks 
+[18:27:06] [Thread-11/INFO]: [gg.playit.minecraft.PlayitKeysSetup] found minecraft java tunnel: expected-clinical.gl.joinmc.link
+[18:27:06] [Thread-11/INFO]: [gg.playit.minecraft.PlayitManager] keys and tunnel setup
+[18:27:06] [Thread-11/WARN]: [gg.playit.control.ChannelSetup] Got IO error working with :control.playit.gg/2602:fbaf:860:2:0:0:0:1, error : java.net.SocketException: Network is unreachable
+[18:27:06] [Server thread/INFO]: [spark] Starting background profiler...
+[18:27:06] [Server thread/INFO]: Done preparing level "world" (5.144s)
+[18:27:07] [Server thread/INFO]: Running delayed init tasks
+[18:27:07] [Server thread/INFO]: Done (27.672s)! For help, type "help"
+[18:27:07] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] request queued, waiting 1 second before resend
+[18:27:15] [Thread-11/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.211:43308, peerAddr=177.37.184.21:18674, claimAddress=209.25.141.2:43784, claimToken=[44, 0, 68, -109, -71, -35, -45, -87, 44, -79, 37, -72, 21, 72, -14, 23, -74, 99, -50, -85, 8, 104, -48, 67, -125, 0, 0, 0, 0, 0, 16, -95, -123, 0, 0, 0, 0, 0, 76, -74, -31, 0, 0, 0, 0, 0, 35, -2, 36, -125, -50, -85, 8, 0, 0, 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 1, -115, -95, 35, -97, 98, 67, -50, 28, 58, -36, 1, -127, -100, 73, 67], tunnelServerId=4, dataCenterId=20}
+[18:27:15] [Thread-11/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[18:27:15] [Thread-11/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43784 to claim client
+[18:27:15] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[18:27:15] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[18:27:15] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[18:27:15] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[18:27:15] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[18:27:15] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[18:27:15] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[18:27:15] [Thread-11/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.211:43308, peerAddr=177.37.184.21:18484, claimAddress=209.25.141.2:43784, claimToken=[44, 0, 68, -109, -71, -35, -45, -87, 44, -79, 37, -72, 21, 72, 52, -31, 64, 29, -48, -85, 8, 104, -48, 67, -125, 0, 0, 0, 0, 0, 16, -95, -123, 0, 0, 0, 0, 0, 76, -74, -31, 0, 0, 0, 0, 0, 35, -2, 36, -6, -48, -85, 8, 0, 0, 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, -23, 63, -102, -88, 100, -116, -110, 76, 98, -13, 126, -125, -47, -67, -128, 0], tunnelServerId=3, dataCenterId=20}
+[18:27:15] [Thread-11/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[18:27:15] [Thread-11/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43784 to claim client
+[18:27:15] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[18:27:15] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[18:27:15] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[18:27:15] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[18:27:15] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[18:27:15] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[18:27:15] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[18:27:16] [User Authenticator #0/INFO]: UUID of player VELCR0N is de34511e-77c2-3587-8e33-8ec4915c3672
+[18:27:16] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer]
+[18:27:18] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:27:18] [Server thread/INFO]: VELCR0N joined the game
+[18:27:18] [Server thread/INFO]: VELCR0N[/127.0.0.1:53228] logged in with entity id 60 at ([world]88.03117412687291, 84.0, 133.60670919216287)
+[18:29:10] [Server thread/INFO]: VELCR0N has made the advancement [Stone Age]
+[18:29:36] [Server thread/INFO]: Unknown or incomplete command, see below for error
+timeset day<--[HERE]
+[18:29:42] [Server thread/INFO]: Unknown or incomplete command, see below for error
+timeset day<--[HERE]
+[18:29:53] [Server thread/INFO]: Made VELCRON a server operator
+[18:30:13] [Server thread/INFO]: Unknown or incomplete command, see below for error
+?/op VELCR0N<--[HERE]
+[18:30:14] [Thread-11/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.211:43308, peerAddr=177.37.136.154:63052, claimAddress=209.25.141.2:43784, claimToken=[44, 0, 68, -109, -71, -35, -45, -87, 44, -79, 37, -120, -102, -10, 76, 17, 99, 21, 3, -85, 8, 104, -48, 68, 54, 0, 0, 0, 0, 0, 16, -95, -123, 0, 0, 0, 0, 0, 76, -74, -31, 0, 0, 0, 0, 0, 35, -2, 36, 115, 3, -85, 8, 0, 0, 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, -112, -61, 19, 117, 34, 46, 97, 123, 122, -31, 5, -5, 66, 100, 26, 119], tunnelServerId=3, dataCenterId=20}
+[18:30:14] [Thread-11/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[18:30:14] [Thread-11/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43784 to claim client
+[18:30:14] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[18:30:14] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[18:30:14] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[18:30:14] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[18:30:14] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[18:30:14] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[18:30:14] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[18:30:15] [User Authenticator #1/INFO]: UUID of player chillyparrot is 6a43ad40-49dc-30e2-abef-16db0a884ed0
+[18:30:16] [Server thread/INFO]: chillyparrot joined the game
+[18:30:16] [Server thread/INFO]: chillyparrot[/127.0.0.1:37946] logged in with entity id 557 at ([world]61.37620041632993, 72.0, 117.05763180385121)
+[18:31:09] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[18:31:21] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[18:31:39] [Server thread/INFO]: Made VELCR0N a server operator
+[18:32:00] [Server thread/INFO]: VELCR0N issued server command: /gamerule keepInventory true
+[18:32:00] [Server thread/INFO]: [VELCR0N: Gamerule keepInventory is now set to: true]
+[18:32:42] [Server thread/INFO]: chillyparrot has made the advancement [Stone Age]
+[18:34:28] [Server thread/INFO]: chillyparrot issued server command: /skin patatas69
+[18:34:36] [Server thread/INFO]: VELCR0N has made the advancement [Getting an Upgrade]
+[18:34:45] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:34:45] [Server thread/INFO]: VELCR0N lost connection: Disconnected
+[18:34:45] [Server thread/INFO]: VELCR0N left the game
+[18:34:50] [Thread-11/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.211:43308, peerAddr=177.37.184.21:18580, claimAddress=209.25.141.2:43784, claimToken=[44, 0, 68, -109, -71, -35, -45, -87, 44, -79, 37, -72, 21, 72, -108, -81, 123, -102, 95, -85, 8, 104, -48, 69, 74, 0, 0, 0, 0, 0, 16, -95, -123, 0, 0, 0, 0, 0, 76, -74, -31, 0, 0, 0, 0, 0, 35, -2, 36, -16, 95, -85, 8, 0, 0, 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, -40, 2, 107, 35, 72, -55, 5, -3, -93, -84, 58, -35, -55, -35, 25, -20], tunnelServerId=4, dataCenterId=20}
+[18:34:50] [Thread-11/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[18:34:50] [Thread-11/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43784 to claim client
+[18:34:50] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[18:34:50] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[18:34:50] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[18:34:50] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[18:34:50] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[18:34:50] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[18:34:50] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[18:34:51] [Thread-11/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.211:43308, peerAddr=177.37.184.21:18466, claimAddress=209.25.141.2:43784, claimToken=[44, 0, 68, -109, -71, -35, -45, -87, 44, -79, 37, -72, 21, 72, 34, 10, 106, -41, 11, -85, 8, 104, -48, 69, 75, 0, 0, 0, 0, 0, 16, -95, -123, 0, 0, 0, 0, 0, 76, -74, -31, 0, 0, 0, 0, 0, 35, -2, 36, -43, 11, -85, 8, 0, 0, 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 11, -124, 12, -105, -95, -64, -72, 108, -15, -107, -13, -15, -90, -45, -110, 47], tunnelServerId=4, dataCenterId=20}
+[18:34:51] [Thread-11/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[18:34:51] [Thread-11/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43784 to claim client
+[18:34:51] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[18:34:51] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[18:34:51] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[18:34:51] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[18:34:51] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[18:34:51] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[18:34:51] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[18:34:52] [User Authenticator #2/INFO]: UUID of player VELCR0N is de34511e-77c2-3587-8e33-8ec4915c3672
+[18:34:53] [Server thread/INFO]: VELCR0N joined the game
+[18:34:53] [Server thread/INFO]: VELCR0N[/127.0.0.1:44780] logged in with entity id 1019 at ([world]55.14084511008129, 57.0, 157.52724548327248)
+[18:35:09] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[18:35:22] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[18:35:31] [nioEventLoopGroup-2-1/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:35:31] [Server thread/INFO]: chillyparrot lost connection: Disconnected
+[18:35:31] [Server thread/INFO]: chillyparrot left the game
+[18:35:38] [Thread-11/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.211:43308, peerAddr=177.37.136.154:30993, claimAddress=209.25.141.2:43784, claimToken=[44, 0, 68, -109, -71, -35, -45, -87, 44, -79, 37, -120, -102, 121, 17, -89, 112, -70, 16, -85, 8, 104, -48, 69, 122, 0, 0, 0, 0, 0, 16, -95, -123, 0, 0, 0, 0, 0, 76, -74, -31, 0, 0, 0, 0, 0, 35, -2, 36, -84, 16, -85, 8, 0, 0, 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 73, 20, 63, 24, 67, 124, 37, -101, -43, -2, -100, -96, -99, -35, -84, 43], tunnelServerId=3, dataCenterId=20}
+[18:35:38] [Thread-11/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[18:35:38] [Thread-11/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43784 to claim client
+[18:35:38] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[18:35:38] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[18:35:38] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[18:35:38] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[18:35:38] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[18:35:38] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[18:35:38] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[18:35:39] [User Authenticator #2/INFO]: UUID of player chillyparrot is 6a43ad40-49dc-30e2-abef-16db0a884ed0
+[18:35:40] [Server thread/INFO]: chillyparrot joined the game
+[18:35:40] [Server thread/INFO]: chillyparrot[/127.0.0.1:60668] logged in with entity id 1090 at ([world]53.45767980469004, 57.0, 157.68089362797767)
+[18:36:34] [Server thread/INFO]: chillyparrot issued server command: /skin DerpyGamer04
+[18:38:40] [Server thread/INFO]: VELCR0N has made the advancement [Monster Hunter]
+[18:39:11] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[18:39:20] [Server thread/INFO]: chillyparrot has made the advancement [Getting an Upgrade]
+[18:39:24] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[18:40:25] [Server thread/INFO]: VELCR0N has made the advancement [Acquire Hardware]
+[18:43:12] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[18:43:24] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[18:45:13] [Thread-11/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.211:43308, peerAddr=217.199.227.79:27557, claimAddress=209.25.141.2:43776, claimToken=[44, 0, 68, -109, -71, -35, -45, -87, 44, -39, -57, -29, 79, 107, -91, -38, 78, -23, 22, -85, 0, 104, -48, 71, -71, 0, 0, 0, 0, 0, 16, -95, -123, 0, 0, 0, 0, 0, 76, -74, -31, 0, 0, 0, 0, 0, 35, -2, 36, -107, 22, -85, 0, 0, 0, 0, 0, 38, 0, 0, 0, 0, 0, 0, 0, 1, 0, 3, -6, 107, 1, -17, -35, 43, -9, -99, -108, 36, 95, -82, -73, 79, 102, -46], tunnelServerId=1, dataCenterId=38}
+[18:45:13] [Thread-11/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[18:45:13] [Thread-11/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43776 to claim client
+[18:45:13] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[18:45:13] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[18:45:13] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[18:45:13] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[18:45:13] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[18:45:13] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[18:45:13] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[18:45:20] [Server thread/INFO]: chillyparrot was kicked due to keepalive timeout!
+[18:45:20] [Server thread/INFO]: chillyparrot lost connection: Timed out
+[18:45:20] [Server thread/INFO]: chillyparrot left the game
+[18:45:20] [nioEventLoopGroup-2-4/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to minecraft server
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:20] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[18:45:33] [Thread-11/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.211:43308, peerAddr=177.37.136.154:16389, claimAddress=209.25.141.2:43784, claimToken=[44, 0, 68, -109, -71, -35, -45, -87, 44, -79, 37, -120, -102, 64, 5, -94, 66, -118, -106, -85, 8, 104, -48, 71, -51, 0, 0, 0, 0, 0, 16, -95, -123, 0, 0, 0, 0, 0, 76, -74, -31, 0, 0, 0, 0, 0, 35, -2, 36, 96, -106, -85, 8, 0, 0, 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 27, 80, 4, -126, 17, 72, -110, 77, 72, -27, 1, -61, -84, -20, -46, -34], tunnelServerId=4, dataCenterId=20}
+[18:45:33] [Thread-11/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[18:45:33] [Thread-11/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43784 to claim client
+[18:45:33] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[18:45:33] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[18:45:33] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[18:45:33] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[18:45:33] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[18:45:33] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[18:45:33] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[18:45:34] [User Authenticator #3/INFO]: UUID of player chillyparrot is 6a43ad40-49dc-30e2-abef-16db0a884ed0
+[18:45:35] [Server thread/INFO]: chillyparrot joined the game
+[18:45:35] [Server thread/INFO]: chillyparrot[/127.0.0.1:39554] logged in with entity id 2538 at ([world]38.212112599483596, 86.0, 160.69999998807907)
+[18:45:43] [Server thread/INFO]: VELCR0N issued server command: /tp chillyparrot VELCR0N
+[18:45:43] [Server thread/INFO]: [VELCR0N: Teleported chillyparrot to VELCR0N]
+[18:47:01] [Server thread/INFO]: VELCR0N has made the advancement [Best Friends Forever]
+[18:47:13] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[18:47:25] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[18:47:57] [Server thread/INFO]: chillyparrot has made the advancement [Best Friends Forever]
+[18:50:41] [Server thread/INFO]: VELCR0N issued server command: /tp chillyparrot VELCR0N
+[18:50:41] [Server thread/INFO]: [VELCR0N: Teleported chillyparrot to VELCR0N]
+[18:51:13] [Server thread/INFO]: chillyparrot has made the advancement [Sweet Dreams]
+[18:51:14] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[18:51:25] [Server thread/INFO]: VELCR0N has made the advancement [Sweet Dreams]
+[18:51:26] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[18:55:14] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[18:55:27] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[18:58:06] [Async Chat Thread - #0/INFO]: [Not Secure] <VELCR0N> quer subir logo
+[18:58:09] [Async Chat Thread - #0/INFO]: [Not Secure] <VELCR0N> ??
+[18:59:15] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[18:59:27] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[19:03:16] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[19:03:28] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[19:07:16] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[19:07:29] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[19:11:17] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[19:11:29] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[19:15:18] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[19:15:30] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[19:19:18] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[19:19:30] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[19:23:09] [Server thread/INFO]: VELCR0N has made the advancement [A Seedy Place]
+[19:23:19] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[19:23:31] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[19:24:58] [Server thread/INFO]: chillyparrot has made the advancement [A Seedy Place]
+[19:27:17] [Server thread/INFO]: Villager Villager['Nitwit'/3339, uuid='bbcb6653-2f22-4337-b55b-635ffff613ee', l='ServerLevel[world]', x=377.29, y=62.55, z=540.89, cpos=[23, 33], tl=44152, v=true] died, message: 'Nitwit was impaled by Drowned'
+[19:27:19] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[19:27:32] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[19:28:22] [Server thread/INFO]: VELCR0N issued server command: /gamerule playersSleepingPercentage 50
+[19:28:22] [Server thread/INFO]: [VELCR0N: Gamerule playersSleepingPercentage is now set to: 50]
+[19:28:29] [Server thread/INFO]: VELCR0N issued server command: /gamerule playersSleepingPercentage 75
+[19:28:29] [Server thread/INFO]: [VELCR0N: Gamerule playersSleepingPercentage is now set to: 75]
+[19:31:20] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[19:31:32] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[19:35:21] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[19:35:33] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[19:36:17] [Async Chat Thread - #2/INFO]: [Not Secure] <VELCR0N> escreve
+[19:36:20] [Async Chat Thread - #2/INFO]: [Not Secure] <VELCR0N> n entendi nada
+[19:36:32] [Async Chat Thread - #3/INFO]: [Not Secure] <VELCR0N> ahn?
+[19:36:41] [Async Chat Thread - #2/INFO]: [Not Secure] <VELCR0N> t
+[19:37:09] [Async Chat Thread - #2/INFO]: [Not Secure] <chillyparrot> é para voce quebrar a pedra e eu o barro
+[19:37:24] [Async Chat Thread - #2/INFO]: [Not Secure] <VELCR0N> ja acabou
+[19:37:32] [Async Chat Thread - #2/INFO]: [Not Secure] <VELCR0N> foi so o tempo de tu escrever
+[19:37:53] [Async Chat Thread - #2/INFO]: [Not Secure] <chillyparrot> aff cha
+[19:37:58] [Async Chat Thread - #2/INFO]: [Not Secure] <chillyparrot> to
+[19:38:15] [Async Chat Thread - #2/INFO]: [Not Secure] <VELCR0N> pois vem aqui
+[19:38:24] [Async Chat Thread - #2/INFO]: [Not Secure] <VELCR0N> vou quebrar o chao e tu coloca o baror
+[19:38:26] [Async Chat Thread - #2/INFO]: [Not Secure] <VELCR0N> a terra
+[19:39:21] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[19:39:33] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[19:41:27] [Async Chat Thread - #4/INFO]: [Not Secure] <chillyparrot> oi ja é para nós dormirmos?
+[19:41:53] [Server thread/INFO]: Villager Villager['Villager'/3444, uuid='6ee0983c-46c6-4cb7-bb76-2537aea486e7', l='ServerLevel[world]', x=341.70, y=62.05, z=549.23, cpos=[21, 34], tl=61681, v=true] died, message: 'Villager was slain by Drowned'
+[19:42:18] [Server thread/INFO]: VELCR0N issued server command: /gamerule playersSleepingPercentage 75
+[19:42:18] [Server thread/INFO]: [VELCR0N: Gamerule playersSleepingPercentage is now set to: 75]
+[19:42:39] [Server thread/INFO]: VELCR0N issued server command: /gamerule playersSleepingPercentage 75
+[19:42:39] [Server thread/INFO]: [VELCR0N: Gamerule playersSleepingPercentage is now set to: 75]
+[19:43:01] [Async Chat Thread - #6/INFO]: [Not Secure] <VELCR0N> kkkkkkk
+[19:43:22] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[19:43:34] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[19:44:52] [Async Chat Thread - #9/INFO]: [Not Secure] <chillyparrot> cara de pau
+[19:44:57] [Async Chat Thread - #9/INFO]: [Not Secure] <VELCR0N> bem tui
+[19:45:54] [Async Chat Thread - #9/INFO]: [Not Secure] <chillyparrot> tua mãe zé
+[19:46:09] [Async Chat Thread - #9/INFO]: [Not Secure] <VELCR0N> zé é tu
+[19:46:48] [Async Chat Thread - #9/INFO]: [Not Secure] <chillyparrot> cara de tatu cade tu
+[19:47:22] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[19:47:35] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[19:48:21] [Async Chat Thread - #10/INFO]: [Not Secure] <chillyparrot> achei voce zé da manga
+[19:48:38] [Async Chat Thread - #10/INFO]: [Not Secure] <VELCR0N> kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[19:49:12] [Async Chat Thread - #10/INFO]: [Not Secure] <chillyparrot> kkk
+[19:49:33] [Async Chat Thread - #10/INFO]: [Not Secure] <chillyparrot> zé
+[19:49:50] [Async Chat Thread - #10/INFO]: [Not Secure] <VELCR0N> dizer pra tua mae q ta me chamando de ze
+[19:50:13] [Async Chat Thread - #10/INFO]: [Not Secure] <VELCR0N> oi
+[19:50:17] [Async Chat Thread - #10/INFO]: [Not Secure] <chillyparrot> n
+[19:50:17] [Async Chat Thread - #11/INFO]: [Not Secure] <VELCR0N> oí
+[19:50:27] [Async Chat Thread - #11/INFO]: [Not Secure] <VELCR0N> vai pegar gripe
+[19:51:03] [Async Chat Thread - #11/INFO]: [Not Secure] <chillyparrot> pq derrubou minha cama
+[19:51:07] [Async Chat Thread - #11/INFO]: [Not Secure] <chillyparrot> diabo]
+[19:51:18] [Async Chat Thread - #11/INFO]: [Not Secure] <VELCR0N> pq eu quero
+[19:51:23] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[19:51:35] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[19:51:39] [Async Chat Thread - #11/INFO]: [Not Secure] <chillyparrot> pode dormir nao?
+[19:51:50] [Async Chat Thread - #10/INFO]: [Not Secure] <VELCR0N> n
+[19:51:55] [Async Chat Thread - #10/INFO]: [Not Secure] <VELCR0N> que eu vou te matar
+[19:51:57] [Async Chat Thread - #10/INFO]: [Not Secure] <chillyparrot> affffffffffffffffffffffffffffffff
+[19:52:02] [Async Chat Thread - #10/INFO]: [Not Secure] <chillyparrot> para
+[19:52:58] [Server thread/INFO]: VELCR0N was slain by chillyparrot
+[19:53:08] [Server thread/INFO]: chillyparrot was slain by VELCR0N
+[19:53:24] [Async Chat Thread - #12/INFO]: [Not Secure] <chillyparrot> desculpa
+[19:53:29] [Async Chat Thread - #12/INFO]: [Not Secure] <chillyparrot> foi sdem quererer
+[19:53:33] [Async Chat Thread - #12/INFO]: [Not Secure] <VELCR0N> cara de bunda
+[19:53:42] [Async Chat Thread - #12/INFO]: [Not Secure] <chillyparrot> me pdeias
+[19:53:59] [Async Chat Thread - #12/INFO]: [Not Secure] <VELCR0N> n
+[19:54:06] [Async Chat Thread - #12/INFO]: [Not Secure] <VELCR0N> vou matar todos os gatos da vila
+[19:54:41] [Server thread/INFO]: VELCR0N issued server command: /gamerule playersSleepingPercentage 15
+[19:54:41] [Server thread/INFO]: [VELCR0N: Gamerule playersSleepingPercentage is now set to: 15]
+[19:55:08] [Async Chat Thread - #14/INFO]: [Not Secure] <VELCR0N> ta de manha
+[19:55:10] [Async Chat Thread - #14/INFO]: [Not Secure] <chillyparrot> eu napo con sigp dormir
+[19:55:12] [Async Chat Thread - #14/INFO]: [Not Secure] <chillyparrot> ata
+[19:55:24] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[19:55:36] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[19:55:38] [Async Chat Thread - #15/INFO]: [Not Secure] <VELCR0N> vou fazer a MINHA CASA
+[19:56:03] [Async Chat Thread - #15/INFO]: [Not Secure] <chillyparrot> achei que era a nossa ;(((((((((((((
+[19:56:45] [Async Chat Thread - #15/INFO]: [Not Secure] <VELCR0N> toma tua cama
+[19:56:54] [Async Chat Thread - #15/INFO]: [Not Secure] <VELCR0N> e pode ir procurando outro lugar
+[19:56:56] [Async Chat Thread - #15/INFO]: [Not Secure] <VELCR0N> pra dormir
+[19:57:28] [Async Chat Thread - #15/INFO]: [Not Secure] <chillyparrot> entao vou construir minha propria casa e vai ser mais bonita que a sua
+[19:57:31] [Async Chat Thread - #15/INFO]: [Not Secure] <chillyparrot> bestao
+[19:57:39] [Async Chat Thread - #15/INFO]: [Not Secure] <VELCR0N> vai então
+[19:57:43] [Async Chat Thread - #15/INFO]: [Not Secure] <VELCR0N> quero é ver
+[19:57:47] [Async Chat Thread - #15/INFO]: [Not Secure] <VELCR0N> peidoreia
+[19:58:06] [Async Chat Thread - #15/INFO]: [Not Secure] <VELCR0N> pode sair daqui
+[19:59:02] [Server thread/INFO]: VELCR0N has made the advancement [Not Today, Thank You]
+[19:59:16] [Async Chat Thread - #16/INFO]: [Not Secure] <chillyparrot> tu me pateu cara de pau e eu n vou n
+[19:59:24] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[19:59:37] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[20:00:06] [Server thread/INFO]: VELCR0N was impaled by Drowned
+[20:03:25] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[20:03:37] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[20:04:58] [Async Chat Thread - #17/INFO]: [Not Secure] <chillyparrot> o a tia luzia me dando aboio morau
+[20:05:13] [Async Chat Thread - #17/INFO]: [Not Secure] <VELCR0N> que
+[20:05:19] [Async Chat Thread - #18/INFO]: [Not Secure] <chillyparrot> apoio moral
+[20:05:25] [Async Chat Thread - #18/INFO]: [Not Secure] <VELCR0N> que tem
+[20:05:32] [Async Chat Thread - #18/INFO]: [Not Secure] <chillyparrot> tenho que ir embora
+[20:05:39] [Async Chat Thread - #18/INFO]: [Not Secure] <chillyparrot> deixar a vovo em, casa]
+[20:05:51] [Async Chat Thread - #18/INFO]: [Not Secure] <VELCR0N> ouno
+[20:06:16] [Async Chat Thread - #18/INFO]: [Not Secure] <chillyparrot> tchau chatonildo
+[20:06:45] [Async Chat Thread - #18/INFO]: [Not Secure] <chillyparrot> mo vou so tchau pra minha vo
+[20:06:48] [Async Chat Thread - #18/INFO]: [Not Secure] <chillyparrot> volto ja
+[20:06:52] [Async Chat Thread - #18/INFO]: [Not Secure] <VELCR0N> ta
+[20:07:26] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[20:07:38] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[20:11:26] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[20:11:38] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[20:15:27] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[20:15:39] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[20:19:27] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[20:19:40] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[20:20:31] [Server thread/INFO]: Villager Villager['Villager'/3443, uuid='b252339c-a265-4ecc-8cbb-f1cc437cc189', l='ServerLevel[world]', x=354.50, y=65.18, z=502.20, cpos=[22, 31], tl=108034, v=true] died, message: 'Villager was slain by Zombie'
+[20:21:40] [Server thread/INFO]: VELCR0N issued server command: /skin ishysteele
+[20:22:36] [Async Chat Thread - #19/INFO]: [Not Secure] <chillyparrot> sua skin tava errada
+[20:22:43] [Async Chat Thread - #19/INFO]: [Not Secure] <chillyparrot> era só o boneco padrao
+[20:22:46] [Async Chat Thread - #19/INFO]: [Not Secure] <VELCR0N> eu sei
+[20:22:50] [Async Chat Thread - #20/INFO]: [Not Secure] <VELCR0N> eu troquei
+[20:22:56] [Async Chat Thread - #20/INFO]: [Not Secure] <chillyparrot> ata
+[20:23:03] [Async Chat Thread - #19/INFO]: [Not Secure] <VELCR0N> pode trocar por qualquer uma
+[20:23:12] [Async Chat Thread - #20/INFO]: [Not Secure] <chillyparrot> gostei do pato telemarketing
+[20:23:28] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[20:23:30] [Async Chat Thread - #20/INFO]: [Not Secure] <VELCR0N> pa combinar
+[20:23:35] [Async Chat Thread - #20/INFO]: [Not Secure] <VELCR0N> patodavida
+[20:23:40] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[20:23:51] [Async Chat Thread - #20/INFO]: [Not Secure] <chillyparrot> como agacha?
+[20:23:54] [Async Chat Thread - #20/INFO]: [Not Secure] <VELCR0N> shif
+[20:24:13] [Async Chat Thread - #19/INFO]: [Not Secure] <VELCR0N> quer fazer o tunel
+[20:24:15] [Async Chat Thread - #19/INFO]: [Not Secure] <VELCR0N> ?
+[20:24:19] [Async Chat Thread - #19/INFO]: [Not Secure] <VELCR0N> ou a casa?
+[20:24:23] [Async Chat Thread - #19/INFO]: [Not Secure] <chillyparrot> a csa
+[20:24:37] [Async Chat Thread - #20/INFO]: [Not Secure] <VELCR0N> queria fazer ela de tijolo
+[20:24:45] [Async Chat Thread - #19/INFO]: [Not Secure] <VELCR0N> peguei agila
+[20:24:46] [Async Chat Thread - #19/INFO]: [Not Secure] <chillyparrot> como mfaz tijolo?
+[20:24:50] [Async Chat Thread - #19/INFO]: [Not Secure] <VELCR0N> pra fazar
+[20:25:08] [Async Chat Thread - #20/INFO]: [Not Secure] <VELCR0N> so precisa de muita madeira pra queimar a argila e virar tijolo
+[20:25:15] [Async Chat Thread - #20/INFO]: [Not Secure] <VELCR0N> vou la pegar
+[20:25:16] [Async Chat Thread - #19/INFO]: [Not Secure] <chillyparrot> jesus
+[20:25:38] [Async Chat Thread - #19/INFO]: [Not Secure] <chillyparrot> jogo dificil o strdw valley so tem que existir
+[20:26:05] [Async Chat Thread - #20/INFO]: [Not Secure] <VELCR0N> corre
+[20:26:18] [Async Chat Thread - #20/INFO]: [Not Secure] <chillyparrot> qualquer madeira?
+[20:26:21] [Async Chat Thread - #19/INFO]: [Not Secure] <VELCR0N> sim
+[20:26:24] [Async Chat Thread - #19/INFO]: [Not Secure] <VELCR0N> so pra queimar
+[20:27:16] [Async Chat Thread - #19/INFO]: [Not Secure] <chillyparrot> meu machado acabou
+[20:27:21] [Async Chat Thread - #19/INFO]: [Not Secure] <VELCR0N> pega
+[20:27:29] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[20:27:41] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[20:29:20] [Async Chat Thread - #21/INFO]: [Not Secure] <VELCR0N> agora pega essas muda e replanta tudo
+[20:29:29] [Async Chat Thread - #21/INFO]: [Not Secure] <chillyparrot> af
+[20:29:39] [Async Chat Thread - #21/INFO]: [Not Secure] <chillyparrot> cmo replanta?
+[20:29:45] [Async Chat Thread - #22/INFO]: [Not Secure] <VELCR0N> pega amuda
+[20:29:51] [Async Chat Thread - #22/INFO]: [Not Secure] <VELCR0N> e clica direito no chao
+[20:31:12] [Async Chat Thread - #23/INFO]: [Not Secure] <VELCR0N> bora?
+[20:31:16] [Async Chat Thread - #23/INFO]: [Not Secure] <chillyparrot> sim
+[20:31:29] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[20:31:41] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[20:32:50] [Async Chat Thread - #25/INFO]: [Not Secure] <chillyparrot> pq nao tem porta?
+[20:32:53] [Async Chat Thread - #25/INFO]: [Not Secure] <chillyparrot> ata
+[20:34:05] [Async Chat Thread - #27/INFO]: [Not Secure] <VELCR0N> bora
+[20:35:12] [Async Chat Thread - #29/INFO]: [Not Secure] <chillyparrot> oq eu faço
+[20:35:25] [Async Chat Thread - #30/INFO]: [Not Secure] <VELCR0N> bota as madeiras nas fornalhas
+[20:35:30] [Async Chat Thread - #30/INFO]: [Not Secure] <VELCR0N> na parte de baixo
+[20:35:30] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[20:35:34] [Async Chat Thread - #29/INFO]: [Not Secure] <VELCR0N> de combustivel
+[20:35:40] [Async Chat Thread - #30/INFO]: [Not Secure] <VELCR0N> troco de arvore
+[20:35:42] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[20:36:42] [Async Chat Thread - #31/INFO]: [Not Secure] <chillyparrot> confundi a terra com a madeira
+[20:36:52] [Async Chat Thread - #32/INFO]: [Not Secure] <VELCR0N> deu certo
+[20:37:04] [Async Chat Thread - #31/INFO]: [Not Secure] <VELCR0N> mo
+[20:37:07] [Async Chat Thread - #32/INFO]: [Not Secure] <chillyparrot> oi
+[20:37:10] [Async Chat Thread - #32/INFO]: [Not Secure] <VELCR0N> o cabra]w
+[20:37:47] [Async Chat Thread - #32/INFO]: [Not Secure] <chillyparrot> ele eh bestao
+[20:37:51] [Async Chat Thread - #32/INFO]: [Not Secure] <VELCR0N> igua tu
+[20:38:39] [Async Chat Thread - #32/INFO]: [Not Secure] <chillyparrot> i agr
+[20:38:51] [Async Chat Thread - #32/INFO]: [Not Secure] <VELCR0N> vamo fazer o chao da cara
+[20:38:59] [Async Chat Thread - #31/INFO]: [Not Secure] <chillyparrot> como vai ser
+[20:39:29] [Async Chat Thread - #31/INFO]: [Not Secure] <chillyparrot> to com sono af
+[20:39:30] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[20:39:40] [Async Chat Thread - #31/INFO]: [Not Secure] <VELCR0N> quer jogar mais n?
+[20:39:43] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[20:39:44] [Async Chat Thread - #32/INFO]: [Not Secure] <chillyparrot> quero
+[20:40:01] [Async Chat Thread - #32/INFO]: [Not Secure] <VELCR0N> vamo fazer o chao
+[20:40:05] [Async Chat Thread - #32/INFO]: [Not Secure] <chillyparrot> como faz
+[20:40:12] [Async Chat Thread - #32/INFO]: [Not Secure] <VELCR0N> a frente vai ser pra ca
+[20:40:20] [Async Chat Thread - #32/INFO]: [Not Secure] <chillyparrot> ta
+[20:40:35] [Async Chat Thread - #32/INFO]: [Not Secure] <VELCR0N> e vai ter um alpendre pra nos ver o por do sol
+[20:40:42] [Async Chat Thread - #32/INFO]: [Not Secure] <chillyparrot> e fazer nenem
+[20:40:54] [Async Chat Thread - #32/INFO]: [Not Secure] <VELCR0N> e nos fundo vai ter uma fazenda
+[20:41:14] [Async Chat Thread - #32/INFO]: [Not Secure] <chillyparrot> e eu faço oq?
+[20:41:25] [Async Chat Thread - #31/INFO]: [Not Secure] <VELCR0N> me ajuda
+[20:41:31] [Async Chat Thread - #32/INFO]: [Not Secure] <VELCR0N> pega madeira
+[20:41:37] [Async Chat Thread - #32/INFO]: [Not Secure] <chillyparrot> ta
+[20:41:38] [Async Chat Thread - #32/INFO]: [Not Secure] <VELCR0N> e faz o chao]
+[20:42:24] [Async Chat Thread - #32/INFO]: [Not Secure] <chillyparrot> af nao tem mais madeira em nenhum bau
+[20:42:30] [Async Chat Thread - #32/INFO]: [Not Secure] <VELCR0N> pega aqui
+[20:43:31] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[20:43:43] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[20:43:49] [Async Chat Thread - #33/INFO]: [Not Secure] <chillyparrot> eu nao to entendendo onde é o chao
+[20:43:53] [Async Chat Thread - #33/INFO]: [Not Secure] <VELCR0N> a madeira
+[20:44:03] [Async Chat Thread - #33/INFO]: [Not Secure] <chillyparrot> mas eu boto onde
+[20:44:08] [Async Chat Thread - #33/INFO]: [Not Secure] <VELCR0N> completa tudo
+[20:44:18] [Async Chat Thread - #33/INFO]: [Not Secure] <VELCR0N> tamo fazendo a fundação da casa
+[20:44:26] [Async Chat Thread - #33/INFO]: [Not Secure] <chillyparrot> assim?
+[20:44:30] [Async Chat Thread - #33/INFO]: [Not Secure] <VELCR0N> processa a madeira
+[20:44:37] [Async Chat Thread - #33/INFO]: [Not Secure] <chillyparrot> como?
+[20:44:37] [Async Chat Thread - #33/INFO]: [Not Secure] <VELCR0N> aperta é
+[20:44:39] [Async Chat Thread - #33/INFO]: [Not Secure] <VELCR0N> e
+[20:45:03] [Async Chat Thread - #33/INFO]: [Not Secure] <VELCR0N> coloca na fabricacao
+[20:45:19] [Async Chat Thread - #33/INFO]: [Not Secure] <VELCR0N> ou abre o livro
+[20:45:25] [Async Chat Thread - #34/INFO]: [Not Secure] <VELCR0N> e clica
+[20:46:39] [Async Chat Thread - #35/INFO]: [Not Secure] <chillyparrot> pronmto mo
+[20:47:29] [Async Chat Thread - #35/INFO]: [Not Secure] <VELCR0N> durmir
+[20:47:32] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[20:47:44] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[20:48:35] [Async Chat Thread - #38/INFO]: [Not Secure] <chillyparrot> to cansada
+[20:48:55] [Async Chat Thread - #38/INFO]: [Not Secure] <chillyparrot> mas eu querp continuar amanha :(((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((
+[20:49:06] [Async Chat Thread - #38/INFO]: [Not Secure] <chillyparrot> a noite
+[20:49:16] [Async Chat Thread - #38/INFO]: [Not Secure] <chillyparrot> vou nao, prometo
+[20:49:26] [Async Chat Thread - #38/INFO]: [Not Secure] <chillyparrot> acredita em mim
+[20:50:26] [Async Chat Thread - #39/INFO]: [Not Secure] <chillyparrot> podemos????????????????????????????????????????????????????????????????????????????????????????????????????????????
+[20:50:36] [Async Chat Thread - #39/INFO]: [Not Secure] <VELCR0N> por mim sim
+[20:50:41] [Async Chat Thread - #39/INFO]: [Not Secure] <chillyparrot> ebaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[20:50:42] [Async Chat Thread - #39/INFO]: [Not Secure] <VELCR0N> mas duvido q vamos
+[20:51:05] [Async Chat Thread - #39/INFO]: [Not Secure] <chillyparrot> vou chorar
+[20:51:25] [Async Chat Thread - #39/INFO]: [Not Secure] <chillyparrot> vc ta desde ontem falando mal de mim :(
+[20:51:32] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[20:51:43] [Async Chat Thread - #39/INFO]: [Not Secure] <chillyparrot> quero
+[20:51:44] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[20:52:04] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[20:52:04] [Server thread/INFO]: chillyparrot lost connection: Disconnected
+[20:52:04] [Server thread/INFO]: chillyparrot left the game
+[20:55:33] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[20:55:45] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[20:59:34] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[20:59:46] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[21:03:34] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[21:03:46] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[21:07:35] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[21:07:47] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[21:09:43] [Server thread/INFO]: VELCR0N has made the advancement [A Throwaway Joke]
+[21:11:35] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[21:11:48] [Thread-11/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[21:12:04] [Server thread/INFO]: VELCR0N was impaled by Drowned
+[21:13:37] [nioEventLoopGroup-2-1/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[21:13:37] [Server thread/INFO]: VELCR0N lost connection: Disconnected
+[21:13:37] [Server thread/INFO]: VELCR0N left the game
+[21:13:53] [Server thread/INFO]: Stopping the server
+[21:13:53] [Server thread/INFO]: Stopping server
+[21:13:53] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.10
+[21:13:53] [Server thread/INFO]: [Timber] Disabling Timber v1.7.3
+[21:13:53] [Server thread/INFO]: [playit-gg] Disabling playit-gg v0.1.4
+[21:13:53] [Server thread/INFO]: Saving players
+[21:13:53] [Server thread/INFO]: Saving worlds
+[21:13:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:13:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[21:13:53] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[21:13:53] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[21:13:53] [Server thread/INFO]: [ChunkHolderManager] Saved 40 block chunks, 81 entity chunks, 0 poi chunks in world 'world' in 0.17s
+[21:13:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[21:13:53] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[21:13:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:13:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[21:13:53] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[21:13:53] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[21:13:53] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 1 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[21:13:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[21:13:53] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[21:13:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:13:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[21:13:53] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[21:13:53] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[21:13:53] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[21:13:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[21:13:53] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[21:13:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:13:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:13:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:13:53] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:13:53] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[21:13:53] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[21:13:53] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[21:13:53] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
