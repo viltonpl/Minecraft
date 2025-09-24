@@ -1,0 +1,25 @@
+gui:
+  disablebutton:
+    title: <gradient:#ff0000:#ffaa00>Disable</gradient>
+    description: <gradient:#00ffff:#ff00ff>Chunk boundary is off</gradient>
+  enablebutton:
+    description: <gradient:#00ffff:#ff00ff>Chunk boundary enabled</gradient>
+    title: <gradient:#00ff00:#00ffff>Enable</gradient>
+  owneritem:
+    description: <gradient:#00ffff:#ff00ff>This chunk loader is owned by {player}.</gradient>
+    title: <gradient:#00ffff:#ff00ff>Owner {player}</gradient>
+  thirditem:
+    description: <gradient:#00ffff:#ff00ff>Now this chunk will be active until the
+      block is broken !</gradient>
+    title: <gradient:#00ffff:#ff00ff>Information</gradient>
+  title: <gradient:#4444ff:#aa00aa>ChunkLoader Menu</gradient>
+chunkblock:
+  name: <gradient:#00ffff:#ff00ff>Chunk loader</gradient>
+  placemessage: <gradient:#00ffff:#ff00ff>Chunk loader placed. Chunk will stay loaded.</gradient>
+  description: <gradient:#00ffff:#ff00ff>Keeps the chunk always loaded.</gradient>
+  errorplace: <gradient:#aa0000:#ff5555>This chunk already loaded</gradient>
+  breakmessage: <gradient:#aa0000:#ff5555>Chunk loader removed. Chunk may now unload.</gradient>
+playernotonline: <gradient:#00ffff:#ff00ff>This player is not online.</gradient>
+pluginprefix: '<gradient:#00c3ff:#8e2de2>[ChunkLoader]</gradient> '
+successgiveblock: <gradient:#00ffff:#ff00ff>Chunk Loader block has been given.</gradient>
+reloadmessage: <gradient:#00ff00:#00ffff>Plugin reloaded</gradient>
